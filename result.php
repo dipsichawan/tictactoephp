@@ -1,7 +1,7 @@
 <?php
 require_once "templates/header.php";
 playersRegistered();
-print_r($_SESSION);
+//print_r($_SESSION);
 ?>
 
 <table class="wrapper" cellpadding="0" cellspacing="0">
